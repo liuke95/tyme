@@ -1,0 +1,544 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "tier": "Epic",
+      "name": "The DJ",
+      "theme": "Halloween",
+      "price": 6.75,
+      "author": "green",
+      "createDate": "2024-08-01T10:30:00Z"
+    },
+    {
+      "id": "2",
+      "tier": "Common",
+      "name": "Assassin",
+      "theme": "Christmas",
+      "price": 2.15,
+      "author": "green",
+      "createDate": "2024-05-11T10:30:00Z"
+    },
+    {
+      "id": "3",
+      "tier": "Rare",
+      "name": "Neon Guy",
+      "theme": "Halloween",
+      "price": 5.86,
+      "author": "green",
+      "createDate": "2024-05-08T10:30:00Z"
+    },
+    {
+      "id": "4",
+      "tier": "Common",
+      "name": "Assassin",
+      "theme": "Christmas",
+      "price": 12.94,
+      "author": "green",
+      "createDate": "2024-01-11T10:30:00Z"
+    },
+    {
+      "id": "5",
+      "tier": "Legendary",
+      "name": "Mafia England",
+      "theme": "Halloween",
+      "price": 17.45,
+      "author": "green",
+      "createDate": "2024-02-14T10:30:00Z"
+    },
+    {
+      "id": "6",
+      "tier": "Mythic",
+      "name": "Bassketball Girl",
+      "theme": "Christmas",
+      "price": 8.92,
+      "author": "red",
+      "createDate": "2024-07-13T10:30:00Z"
+    },
+    {
+      "id": "7",
+      "tier": "Epic",
+      "name": "The DJ",
+      "theme": "Halloween",
+      "price": 9.74,
+      "author": "green",
+      "createDate": "2024-10-10T10:30:00Z"
+    },
+    {
+      "id": "8",
+      "tier": "Mythic",
+      "name": "Bassketball Girl",
+      "theme": "Christmas",
+      "price": 95.287,
+      "author": "red",
+      "createDate": "2024-11-18T10:30:00Z"
+    },
+    {
+      "id": "9",
+      "tier": "Common",
+      "name": "Assassin",
+      "theme": "Halloween",
+      "price": 12.56,
+      "author": "green",
+      "createDate": "2024-02-25T10:30:00Z"
+    },
+    {
+      "id": "10",
+      "tier": "Rare",
+      "name": "Neon Guy",
+      "theme": "Christmas",
+      "price": 55.24,
+      "author": "green",
+      "createDate": "2024-09-12T10:30:00Z"
+    },
+    {
+      "id": "11",
+      "tier": "Legendary",
+      "name": "Mafia England",
+      "theme": "Halloween",
+      "price": 33.12,
+      "author": "green",
+      "createDate": "2024-05-23T10:30:00Z"
+    },
+    {
+      "id": "12",
+      "tier": "Rare",
+      "name": "Neon Guy",
+      "theme": "Christmas",
+      "price": 31.13,
+      "author": "green",
+      "createDate": "2024-07-19T10:30:00Z"
+    },
+    {
+      "id": "13",
+      "tier": "Epic",
+      "name": "The DJ",
+      "theme": "Halloween",
+      "price": 22.34,
+      "author": "green",
+      "createDate": "2024-12-25T10:30:00Z"
+    },
+    {
+      "id": "14",
+      "tier": "Common",
+      "name": "Assassin",
+      "theme": "Christmas",
+      "price": 27.56,
+      "author": "green",
+      "createDate": "2024-06-26T10:30:00Z"
+    },
+    {
+      "id": "15",
+      "tier": "Rare",
+      "name": "Neon Guy",
+      "theme": "Halloween",
+      "price": 11.15,
+      "author": "green",
+      "createDate": "2024-08-08T10:30:00Z"
+    },
+    {
+      "id": "16",
+      "tier": "Common",
+      "name": "Assassin",
+      "theme": "Christmas",
+      "price": 26.67,
+      "author": "green",
+      "createDate": "2024-10-24T10:30:00Z"
+    },
+    {
+      "id": "17",
+      "tier": "Legendary",
+      "name": "Mafia England",
+      "theme": "Halloween",
+      "price": 31.12,
+      "author": "green",
+      "createDate": "2024-06-19T10:30:00Z"
+    },
+    {
+      "id": "18",
+      "tier": "Mythic",
+      "name": "Bassketball Girl",
+      "theme": "Christmas",
+      "price": 17.56,
+      "author": "red",
+      "createDate": "2024-03-27T10:30:00Z"
+    },
+    {
+      "id": "19",
+      "tier": "Epic",
+      "name": "The DJ",
+      "theme": "Halloween",
+      "price": 13.31,
+      "author": "green",
+      "createDate": "2024-09-29T10:30:00Z"
+    },
+    {
+      "id": "20",
+      "tier": "Mythic",
+      "name": "Bassketball Girl",
+      "theme": "Christmas",
+      "price": 8.87,
+      "author": "red",
+      "createDate": "2024-12-12T10:30:00Z"
+    },
+    {
+      "id": "21",
+      "tier": "Epic",
+      "name": "The DJ",
+      "theme": "Halloween",
+      "price": 6.75,
+      "author": "green",
+      "createDate": "2024-08-01T10:30:00Z"
+    },
+    {
+      "id": "22",
+      "tier": "Common",
+      "name": "Assassin",
+      "theme": "Christmas",
+      "price": 2.15,
+      "author": "green",
+      "createDate": "2024-05-11T10:30:00Z"
+    },
+    {
+      "id": "23",
+      "tier": "Rare",
+      "name": "Neon Guy",
+      "theme": "Halloween",
+      "price": 5.86,
+      "author": "green",
+      "createDate": "2024-05-08T10:30:00Z"
+    },
+    {
+      "id": "24",
+      "tier": "Common",
+      "name": "Assassin",
+      "theme": "Christmas",
+      "price": 12.94,
+      "author": "green",
+      "createDate": "2024-01-11T10:30:00Z"
+    },
+    {
+      "id": "25",
+      "tier": "Legendary",
+      "name": "Mafia England",
+      "theme": "Halloween",
+      "price": 17.45,
+      "author": "green",
+      "createDate": "2024-02-14T10:30:00Z"
+    },
+    {
+      "id": "26",
+      "tier": "Mythic",
+      "name": "Bassketball Girl",
+      "theme": "Christmas",
+      "price": 8.92,
+      "author": "red",
+      "createDate": "2024-07-13T10:30:00Z"
+    },
+    {
+      "id": "27",
+      "tier": "Epic",
+      "name": "The DJ",
+      "theme": "Halloween",
+      "price": 9.74,
+      "author": "green",
+      "createDate": "2024-10-10T10:30:00Z"
+    },
+    {
+      "id": "28",
+      "tier": "Mythic",
+      "name": "Bassketball Girl",
+      "theme": "Christmas",
+      "price": 95.287,
+      "author": "red",
+      "createDate": "2024-11-18T10:30:00Z"
+    },
+    {
+      "id": "29",
+      "tier": "Common",
+      "name": "Assassin",
+      "theme": "Halloween",
+      "price": 12.56,
+      "author": "green",
+      "createDate": "2024-02-25T10:30:00Z"
+    },
+    {
+      "id": "30",
+      "tier": "Rare",
+      "name": "Neon Guy",
+      "theme": "Christmas",
+      "price": 55.24,
+      "author": "green",
+      "createDate": "2024-09-12T10:30:00Z"
+    },
+    {
+      "id": "31",
+      "tier": "Legendary",
+      "name": "Mafia England",
+      "theme": "Halloween",
+      "price": 33.12,
+      "author": "green",
+      "createDate": "2024-05-23T10:30:00Z"
+    },
+    {
+      "id": "32",
+      "tier": "Rare",
+      "name": "Neon Guy",
+      "theme": "Christmas",
+      "price": 31.13,
+      "author": "green",
+      "createDate": "2024-07-19T10:30:00Z"
+    },
+    {
+      "id": "33",
+      "tier": "Epic",
+      "name": "The DJ",
+      "theme": "Halloween",
+      "price": 22.34,
+      "author": "green",
+      "createDate": "2024-12-25T10:30:00Z"
+    },
+    {
+      "id": "34",
+      "tier": "Common",
+      "name": "Assassin",
+      "theme": "Christmas",
+      "price": 27.56,
+      "author": "green",
+      "createDate": "2024-06-26T10:30:00Z"
+    },
+    {
+      "id": "35",
+      "tier": "Rare",
+      "name": "Neon Guy",
+      "theme": "Halloween",
+      "price": 11.15,
+      "author": "green",
+      "createDate": "2024-08-08T10:30:00Z"
+    },
+    {
+      "id": "36",
+      "tier": "Common",
+      "name": "Assassin",
+      "theme": "Christmas",
+      "price": 26.67,
+      "author": "green",
+      "createDate": "2024-10-24T10:30:00Z"
+    },
+    {
+      "id": "37",
+      "tier": "Legendary",
+      "name": "Mafia England",
+      "theme": "Halloween",
+      "price": 31.12,
+      "author": "green",
+      "createDate": "2024-06-19T10:30:00Z"
+    },
+    {
+      "id": "38",
+      "tier": "Mythic",
+      "name": "Bassketball Girl",
+      "theme": "Christmas",
+      "price": 17.56,
+      "author": "red",
+      "createDate": "2024-03-27T10:30:00Z"
+    },
+    {
+      "id": "39",
+      "tier": "Epic",
+      "name": "The DJ",
+      "theme": "Halloween",
+      "price": 13.31,
+      "author": "green",
+      "createDate": "2024-09-29T10:30:00Z"
+    },
+    {
+      "id": "40",
+      "tier": "Mythic",
+      "name": "Bassketball Girl",
+      "theme": "Christmas",
+      "price": 8.87,
+      "author": "red",
+      "createDate": "2024-12-12T10:30:00Z"
+    },
+    {
+      "id": "41",
+      "tier": "Epic",
+      "name": "The DJ",
+      "theme": "Halloween",
+      "price": 6.75,
+      "author": "green",
+      "createDate": "2024-08-01T10:30:00Z"
+    },
+    {
+      "id": "42",
+      "tier": "Common",
+      "name": "Assassin",
+      "theme": "Christmas",
+      "price": 2.15,
+      "author": "green",
+      "createDate": "2024-05-11T10:30:00Z"
+    },
+    {
+      "id": "43",
+      "tier": "Rare",
+      "name": "Neon Guy",
+      "theme": "Halloween",
+      "price": 5.86,
+      "author": "green",
+      "createDate": "2024-05-08T10:30:00Z"
+    },
+    {
+      "id": "44",
+      "tier": "Common",
+      "name": "Assassin",
+      "theme": "Christmas",
+      "price": 12.94,
+      "author": "green",
+      "createDate": "2024-01-11T10:30:00Z"
+    },
+    {
+      "id": "45",
+      "tier": "Legendary",
+      "name": "Mafia England",
+      "theme": "Halloween",
+      "price": 17.45,
+      "author": "green",
+      "createDate": "2024-02-14T10:30:00Z"
+    },
+    {
+      "id": "46",
+      "tier": "Mythic",
+      "name": "Bassketball Girl",
+      "theme": "Christmas",
+      "price": 8.92,
+      "author": "red",
+      "createDate": "2024-07-13T10:30:00Z"
+    },
+    {
+      "id": "47",
+      "tier": "Epic",
+      "name": "The DJ",
+      "theme": "Halloween",
+      "price": 9.74,
+      "author": "green",
+      "createDate": "2024-10-10T10:30:00Z"
+    },
+    {
+      "id": "48",
+      "tier": "Mythic",
+      "name": "Bassketball Girl",
+      "theme": "Christmas",
+      "price": 95.287,
+      "author": "red",
+      "createDate": "2024-11-18T10:30:00Z"
+    },
+    {
+      "id": "49",
+      "tier": "Common",
+      "name": "Assassin",
+      "theme": "Halloween",
+      "price": 12.56,
+      "author": "green",
+      "createDate": "2024-02-25T10:30:00Z"
+    },
+    {
+      "id": "50",
+      "tier": "Rare",
+      "name": "Neon Guy",
+      "theme": "Christmas",
+      "price": 55.24,
+      "author": "green",
+      "createDate": "2024-09-12T10:30:00Z"
+    },
+    {
+      "id": "51",
+      "tier": "Legendary",
+      "name": "Mafia England",
+      "theme": "Halloween",
+      "price": 33.12,
+      "author": "green",
+      "createDate": "2024-05-23T10:30:00Z"
+    },
+    {
+      "id": "52",
+      "tier": "Rare",
+      "name": "Neon Guy",
+      "theme": "Christmas",
+      "price": 31.13,
+      "author": "green",
+      "createDate": "2024-07-19T10:30:00Z"
+    },
+    {
+      "id": "53",
+      "tier": "Epic",
+      "name": "The DJ",
+      "theme": "Halloween",
+      "price": 22.34,
+      "author": "green",
+      "createDate": "2024-12-25T10:30:00Z"
+    },
+    {
+      "id": "54",
+      "tier": "Common",
+      "name": "Assassin",
+      "theme": "Christmas",
+      "price": 27.56,
+      "author": "green",
+      "createDate": "2024-06-26T10:30:00Z"
+    },
+    {
+      "id": "55",
+      "tier": "Rare",
+      "name": "Neon Guy",
+      "theme": "Halloween",
+      "price": 11.15,
+      "author": "green",
+      "createDate": "2024-08-08T10:30:00Z"
+    },
+    {
+      "id": "56",
+      "tier": "Common",
+      "name": "Assassin",
+      "theme": "Christmas",
+      "price": 26.67,
+      "author": "green",
+      "createDate": "2024-10-24T10:30:00Z"
+    },
+    {
+      "id": "57",
+      "tier": "Legendary",
+      "name": "Mafia England",
+      "theme": "Halloween",
+      "price": 31.12,
+      "author": "green",
+      "createDate": "2024-06-19T10:30:00Z"
+    },
+    {
+      "id": "58",
+      "tier": "Mythic",
+      "name": "Bassketball Girl",
+      "theme": "Christmas",
+      "price": 17.56,
+      "author": "red",
+      "createDate": "2024-03-27T10:30:00Z"
+    },
+    {
+      "id": "59",
+      "tier": "Epic",
+      "name": "The DJ",
+      "theme": "Halloween",
+      "price": 13.31,
+      "author": "green",
+      "createDate": "2024-09-29T10:30:00Z"
+    },
+    {
+      "id": "60",
+      "tier": "Mythic",
+      "name": "Bassketball Girl",
+      "theme": "Christmas",
+      "price": 8.87,
+      "author": "red",
+      "createDate": "2024-12-12T10:30:00Z"
+    }
+  ]
+}
